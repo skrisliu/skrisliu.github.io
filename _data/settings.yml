@@ -7,10 +7,10 @@ disqus:
 google-ID: 'G-L19XLR03TJ'
 
 menu:
-- {name: 'Technote', url: 'writing.html'}
-- {name: 'Blog', url: 'blog.html'}
-- {name: 'Publication', url: 'publication.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'home', url: }
+- {name: 'technote', url: 'writing.html'}
+- {name: 'publications', url: 'publication.html'}
+- {name: 'contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
