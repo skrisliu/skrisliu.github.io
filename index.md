@@ -7,5 +7,7 @@ I am a PhD student at [University of Southern California](https://usc.edu). Prio
 
 My research interests include remote sensing, machine learning, and urban climate. I develop advanced AI methods for processing Earth Observation data (AI4EO) and apply EO data for urban studies and climate research. 
 
+[Scholar](https://scholar.google.com/citations?hl=en&user=D2ZRcjQAAAAJ)
+
 
 
