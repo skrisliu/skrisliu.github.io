@@ -9,7 +9,7 @@ google-ID: 'G-L19XLR03TJ'
 menu:
 - {name: 'home', url: }
 - {name: 'technote', url: 'writing.html'}
-- {name: 'publications', url: 'publication.html'}
+- {name: 'publication', url: 'publication.html'}
 - {name: 'contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -28,6 +28,6 @@ pagination:
 
 sharing_button_prompt: 'Feel free to share!'
 
-related_posts: 'You may also enjoy:'
+# related_posts: 'You may also enjoy:'
 
 post_date_prefix: 'Written on'
