@@ -10,7 +10,12 @@ My research interests include remote sensing, machine learning, and urban climat
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=D2ZRcjQAAAAJ)
 
+## Research Highlights
 
+[Few-shot hyperspectral image classification with unknown classes using multitask deep learning](https://doi.org/10.1109/TGRS.2020.3018879)  
+<sup>Shengjie Liu, Qian Shi, Liangpei Zhang. IEEE Transactions on Geoscience and Remote Sensing 2021</sup>
 
+[Multiple angle observations would benefit visible band remote sensing using night lights](https://doi.org/10.1029/2021JD036382)  
+<sup>Led by Christopher C. M. Kyba. Journal of Geophysical Research: Atmospheres 2022</sup>
 
 
