@@ -9,8 +9,6 @@ My research interests include remote sensing, machine learning, and urban climat
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=D2ZRcjQAAAAJ)
 
-## Research Highlights
-
 
 
 
