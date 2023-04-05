@@ -33,7 +33,7 @@ permalink: /publications
 [Local climate zone mapping as remote sensing scene classification using deep learning: A case study of metropolitan China](https://doi.org/10.1016/j.isprsjprs.2020.04.008)  
 <sup>Shengjie Liu, Qian Shi. <i class="fa fa-book" aria-hidden="true"></i>  ISPRS Journal of Photogrammetry and Remote Sensing 2020</sup>
 
-[Multitask Deep Learning With Spectral Knowledge for Hyperspectral Image Classification](https://doi.org/10.3390/rs11060690)  
+[Multitask Deep Learning With Spectral Knowledge for Hyperspectral Image Classification](https://doi.org/10.1109/LGRS.2019.2962768)  
 <sup>Shengjie Liu, Qian Shi. <i class="fa fa-book" aria-hidden="true"></i>  IEEE Geoscience and Remote Sensing Letters 2020</sup>
 
 
