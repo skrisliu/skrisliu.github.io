@@ -10,7 +10,11 @@ Prior to joining USC, I was a research assistant in light pollution at [The Univ
 
 
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=D2ZRcjQAAAAJ), [CV](skrisliuCV.pdf)
+[Résumé/CV](skrisliuCV.pdf)
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=D2ZRcjQAAAAJ)
+
+[Romanization of Chinese Names](img/RomanizationChineseNames.png)
 
 ## Research Highlights
 
