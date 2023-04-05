@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liu, Shengjie (Kris)
+title: Liu, Shengjie Kris
 ---
 
 
