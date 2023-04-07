@@ -12,5 +12,3 @@ I am a PhD student at [University of Southern California](https://usc.edu). Befo
 
 
 [Résumé/CV](skrisliuCV.pdf)
-
-[Romanization of Chinese Names](img/name.png)
