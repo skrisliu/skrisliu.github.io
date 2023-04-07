@@ -4,7 +4,6 @@ title: publications
 permalink: /publications
 ---
 
-
 ### 2022
 [Multiple angle observations would benefit visible band remote sensing using night lights](https://doi.org/10.1029/2021JD036382)  
 <sup>Led by Christopher C. M. Kyba. <i class="fa fa-book" aria-hidden="true"></i>  Journal of Geophysical Research: Atmospheres 2022</sup>
