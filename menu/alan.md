@@ -1,6 +1,6 @@
 ---
 layout: research
-#title: fun visualization
+title: fun visualization
 permalink: /visual
 ---
 
