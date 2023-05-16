@@ -4,6 +4,11 @@ title: publications
 permalink: /publications
 ---
 
+### 2023
+[Spatial variability of diurnal temperature range and its associations with local climate zone, neighborhood environment and mortality in Los Angeles](https://doi.org/10.1016/j.uclim.2023.101526)  
+<sup>Shengjie Liu, An-Min Wu, Hung Chak (Derrick) Ho. <i class="fa fa-book" aria-hidden="true"></i>  Urban Climate 2023</sup>
+
+
 ### 2022
 [Multiple angle observations would benefit visible band remote sensing using night lights](https://doi.org/10.1029/2021JD036382)  
 <sup>Led by Christopher C. M. Kyba. <i class="fa fa-book" aria-hidden="true"></i>  Journal of Geophysical Research: Atmospheres 2022</sup>
