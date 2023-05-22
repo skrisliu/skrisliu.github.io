@@ -4,7 +4,7 @@ title: Liu, Shengjie Kris
 ---
 
 
-I am a data scientist. I discover patterns from data. My past research involves using
+I am a data scientist. I discover patterns from data. My research involves using
 - spectral and radar imagery to map the Earth's surface 
 - satellite and weather station data to estimate air pollution 
 - panoramic, all-sky and satellite imagery and sky quality meter data to identify light pollution 
