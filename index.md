@@ -22,7 +22,7 @@ All my publications have preprint versions freely available [here](publications.
 ## News
 July 16-21: I will be in Pasadena for IGARSS 2023, giving two oral presentations and chairing one session
 - [Earth Hour 2021 Hong Kong](https://2023.ieeeigarss.org/view_paper.php?PaperNum=4847)
-- [Ultra-high-resolution satellite imagery to identify light pollution & light trespass](https://2023.ieeeigarss.org/view_paper.php?PaperNum=4847)
+- [Ultra-high-resolution satellite imagery to identify light pollution & light trespass](https://2023.ieeeigarss.org/view_paper.php?PaperNum=4855)
 - [Hyperspectral Imaging Classification](https://2023.ieeeigarss.org/view_session.php?SessionID=1105)
 
 May 1: new publication in *Urban Climate*, showing large diurnal temperature range is associated with higher mortality risk. 
