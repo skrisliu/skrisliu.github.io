@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'skrisliu-github-io'
+  disqus_shortname: 'skrisliu.com'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'G-L19XLR03TJ'
@@ -9,7 +9,7 @@ google-ID: 'G-L19XLR03TJ'
 menu:
 - {name: 'home', url: }
 - {name: 'publications', url: 'publications.html'}
-- {name: 'visual', url: 'visual.html'}
+#- {name: 'visual', url: 'visual.html'}
 #- {name: 'contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

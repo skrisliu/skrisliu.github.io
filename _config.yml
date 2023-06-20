@@ -21,8 +21,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'skrisliu'
-description:	       'Project 25.8'
-author:              'S. Kirs Liu'
+description:	       ''
+author:              'S. Kris Liu'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
