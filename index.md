@@ -18,16 +18,14 @@ I also play with a variety of other data for various domains, including
 
 All my publications have preprint versions freely available [here](publications.html)
 
-## Data Download
-- [Local Climate Zone Mapping (LCZNet)](/lcz)
-- [MDL4OW Open-Set Hyperspectral Image Classification With Unknown Classes](/MDL4OW)
-
-
 ## News
 July 16-21: I will be in Pasadena for IGARSS 2023, giving two oral presentations and chairing one session
 - [Earth Hour 2021 Hong Kong](https://2023.ieeeigarss.org/view_paper.php?PaperNum=4847)
 - [Ultra-high-resolution satellite imagery to identify light pollution & light trespass](https://2023.ieeeigarss.org/view_paper.php?PaperNum=4855)
 - [Hyperspectral Imaging Classification](https://2023.ieeeigarss.org/view_session.php?SessionID=1105)
 
-May 1: new publication in *Urban Climate*, showing large diurnal temperature range is associated with higher mortality risk. 
-[Free access](https://t.co/xETxWQ2Xov) by June 21
+
+## Data Download
+- [Local Climate Zone Mapping (LCZNet)](/lcz)
+- [MDL4OW Open-Set Hyperspectral Image Classification With Unknown Classes](/MDL4OW)
+
