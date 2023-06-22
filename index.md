@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: page2
 title: Liu, Shengjie Kris
 ---
-
 
 I am a data scientist, with special focus on remote sensing and machine learning.
 I also play with a variety of other data for various domains, including 
