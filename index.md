@@ -18,6 +18,10 @@ I also play with a variety of other data for various domains, including
 
 All my publications have preprint versions freely available [here](publications.html)
 
+## Data Download
+- [Local Climate Zone Mapping (LCZNet)](/lcz)
+- [MDL4OW Open-Set Hyperspectral Image Classification With Unknown Classes](/MDL4OW)
+
 
 ## News
 July 16-21: I will be in Pasadena for IGARSS 2023, giving two oral presentations and chairing one session
