@@ -3,7 +3,7 @@ layout: page2
 title: Liu, Shengjie Kris
 ---
 
-I am a (Earth) data scientist, with special focus on remote sensing and machine learning.
+I am a data scientist, with special focus on remote sensing and machine learning (Earth Data Science).
 I play with a variety of datasets from various domains, including 
 - spectral and radar imagery to map the Earth's surface 
 - satellite and low-cost ground sensors to estimate air pollution 
