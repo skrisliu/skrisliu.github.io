@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: Liu, Shengjie Kris
+title: Shengjie Kris Liu
 ---
 
 I am a data scientist, with special focus on remote sensing and machine learning (Earth Data Science).
