@@ -11,7 +11,7 @@ I play with a variety of datasets from various domains, including
 - MRI imagery to predict brain age and dementia 
 - temperature data for temperature-related health outcomes 
 
-[Résumé/CV](skrisliuCV.pdf)
+[Résumé/CV](cv.pdf)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=D2ZRcjQAAAAJ)
 
