@@ -24,5 +24,5 @@ document.write('\
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\
     <meta name="author" content="Shengjie Kris Liu">\
     <meta name=viewport content="width=device-width, initial-scale=1">\
-    <link rel="shortcut icon" href="'+params["prefix"]+'images/favicon.ico">\
+    <link rel="shortcut icon" href="'+params["prefix"]+'js/usc.png">\
 ');
