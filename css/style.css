@@ -61,7 +61,8 @@ hr{
   height: auto;       /* keeps aspect ratio */
   float: right;       /* moves image to the right */
   margin: 0 0 1em 1em; /* space: top=0, right=0, bottom=1em, left=1em */
-  border-radius: 0;   /* keep it square/rectangle */
+  border-radius: 50%;   /* keep it square/rectangle */
+  object-fit: cover
 }
 
 /* Lists: keep default bullets, tidy spacing */
