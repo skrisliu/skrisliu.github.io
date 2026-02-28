@@ -1,0 +1,105 @@
+/* ===== style.css — basic & simple ===== */
+
+body{
+  margin: 0;
+  padding: 0;
+  color: #000; /* from your snippet */
+  font-family: "Open Sans",
+               Segoe, "Segoe UI",
+               "Lucida Sans Unicode","Lucida Grande",
+               Avenir, Seravek, Ubuntu,
+               "DejaVu Sans","Trebuchet MS",
+               Verdana, Arial, sans-serif;
+  font-size: 14.4px;   /* from your snippet */
+  line-height: 170%;   /* from your snippet */
+  text-align: left;    /* keep it simple & left aligned */
+}
+
+/* Main column: simple max-width and centering */
+.content{
+  max-width: 800px;   /* adjust (e.g., 800–1000px) to taste */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Headings: reuse weight=600 */
+h1,h2,h3,h4,h5,h6{
+  font-weight: 600;          /* from your snippet */
+  margin: 1.2em 0 0.6em;
+}
+/* Larger title for your name */
+.name{
+  font-size: 2rem;    /* ~32px, adjust up/down as you like */
+  font-weight: 600;
+  margin-top: 0.2em;
+  margin-bottom: 0.6em;
+}
+
+/* Paragraphs */
+p{ margin: 0.5em 0 1em; }
+
+/* Links: reuse your link color and hover underline */
+.content a:link,
+.content a:visited{
+  color: #0055AA;            /* from your snippet */
+  text-decoration: none;
+}
+.content a:hover{
+  text-decoration: underline; /* from your snippet */
+}
+
+/* Horizontal rule: simple, unobtrusive */
+hr{
+  border: 0;
+  border-top: 1px solid #ddd; /* aligns with your light lines */
+  margin: 2em 0;
+}
+
+/* Profile photo: square/rectangle, no circle */
+.profile-photo{
+  width: 128px;       /* adjust as you like */
+  height: auto;       /* keeps aspect ratio */
+  float: right;       /* moves image to the right */
+  margin: 0 0 1em 1em; /* space: top=0, right=0, bottom=1em, left=1em */
+  border-radius: 50%;   /* keep it square/rectangle */
+  object-fit: cover
+}
+
+/* Lists: keep default bullets, tidy spacing */
+ul{
+  padding-left: 1.2em;
+  margin: 0.4em 0 1em;
+}
+
+/* Highlight blocks: soft background + spacing */
+.highlight{
+  background-color: #f7f7f7;  /* light gray for contrast */
+  border: 1px solid #ddd;     /* thin border to separate */
+  padding: 15px 20px;
+  margin: 1.2em 0;            /* space around each block */
+  border-radius: 6px;         /* slight rounding */
+}
+
+.highlight h4{
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+
+.additional{
+  background-color: #f9fcff;   /* very light blue for contrast */
+  border-left: 4px solid #66a3e0; /* accent color on the side */
+  padding: 14px 18px;
+  margin: 1.2em 0;             /* vertical spacing between blocks */
+  border-radius: 4px;          /* softer rounding */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* gentle shadow for depth */
+}
+
+.additional h4{
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+
+/* Optional: responsive font-size tweak from your snippet (very light) */
+@media only screen and (max-width: 639px){
+  body{ font-size: 80%; } /* from your snippet */
+}
