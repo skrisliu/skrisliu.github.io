@@ -1,0 +1,254 @@
+/* skrisliu — simple, black text, one column */
+
+:root {
+  --ink: #111;
+  --mute: #444;
+  --line: #ddd;
+  --bg: #fff;
+  --max: 680px;
+}
+
+* { box-sizing: border-box; }
+
+html {
+  font-size: 15.5px;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--bg);
+  font-family: "Source Serif 4", "Iowan Old Style", Palatino, "Palatino Linotype",
+               "Times New Roman", Times, serif;
+  font-weight: 400;
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+.site-name {
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.4rem;
+}
+
+.site-name a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+nav {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+}
+
+nav a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+nav a + a::before {
+  content: "·";
+  display: inline-block;
+  margin: 0 0.55rem;
+  color: #999;
+}
+
+nav a:hover,
+nav a[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 0 0 0.5rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 1.6rem 0 0.45rem;
+}
+
+h3 {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 1.8rem 0 0.7rem;
+}
+
+p { margin: 0 0 1rem; }
+
+.lead { font-size: 1em; }
+
+.mute { color: var(--mute); }
+
+.hero {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin-bottom: 1.15rem;
+}
+
+.hero img {
+  width: 96px;
+  height: 96px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.role {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  color: var(--mute);
+  margin: 0.15rem 0 0;
+}
+
+a {
+  color: var(--ink);
+  text-underline-offset: 2px;
+}
+
+a:hover { text-decoration-thickness: 1.5px; }
+
+.topics {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.topics li {
+  padding: 1.15rem 0 1.2rem;
+  border-top: 1px solid var(--line);
+}
+
+.topics li:last-child {
+  border-bottom: 1px solid var(--line);
+}
+
+.topics h2 {
+  margin: 0 0 0.3rem;
+  font-size: 1.2rem;
+}
+
+.topics p {
+  margin: 0 0 0.35rem;
+  font-size: 0.92em;
+  color: var(--mute);
+  line-height: 1.5;
+}
+
+.links {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.92rem;
+}
+
+.links a { text-decoration: none; }
+.links a:hover { text-decoration: underline; }
+
+.links a + a::before {
+  content: "·";
+  margin: 0 0.4rem;
+  color: #999;
+}
+
+.paper {
+  margin: 0 0 1.15rem;
+}
+
+.paper .line {
+  margin: 0;
+  line-height: 1.45;
+}
+
+.paper .title {
+  font-size: 1.05rem;
+  font-weight: 400;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 0.6px;
+}
+
+.paper .title:hover {
+  text-decoration-thickness: 1.2px;
+}
+
+.paper .venue {
+  color: var(--mute);
+  text-decoration: none;
+}
+
+.paper .links {
+  margin: 0.2rem 0 0;
+}
+
+.item { margin: 0 0 1.15rem; }
+
+.item h2 {
+  margin: 0 0 0.2rem;
+  font-size: 1.15rem;
+}
+
+.item p {
+  margin: 0 0 0.2rem;
+  font-size: 0.92em;
+  color: var(--mute);
+}
+
+.item .links { margin-top: 0.15rem; }
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--line);
+  margin: 1.8rem 0;
+}
+
+footer {
+  margin-top: 2.4rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  color: var(--mute);
+}
+
+footer a {
+  color: var(--mute);
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+footer a + a::before {
+  content: "·";
+  margin: 0 0.45rem;
+  color: #bbb;
+}
+
+@media (max-width: 520px) {
+  .hero img { width: 80px; height: 80px; }
+  h1, .site-name { font-size: 1.65rem; }
+}
